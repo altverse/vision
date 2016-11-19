@@ -19,3 +19,6 @@ Altverse is an economic MMO strategy game running on [Ethereum](https://www.ethe
 - Ideas for community
  - Business models on top of Altverse
  - Business models inside Altverse
+
+## License
+[GPL-3.0](https://github.com/altverse/vision/blob/master/LICENSE)
