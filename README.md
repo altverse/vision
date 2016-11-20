@@ -1,5 +1,7 @@
 # Altverse – vision
 
+[![Join the chat at https://gitter.im/altverse/vision](https://badges.gitter.im/altverse/vision.svg)](https://gitter.im/altverse/vision?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repository contains vision of Altverse.
 
 ## What is Altverse?
