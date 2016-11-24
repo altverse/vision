@@ -5,7 +5,7 @@
 This repository contains vision of Altverse.
 
 ## What is Altverse?
-Altverse is an economic MMO strategy game running on [Ethereum](https://www.ethereum.org/) blockchain.
+Altverse is an economic MMO strategy game powered by the [Ethereum](https://www.ethereum.org) blockchain.
 
 ##Chapters
 - Universe
