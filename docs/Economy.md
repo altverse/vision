@@ -46,8 +46,9 @@ Initial emission is done via [lottery](http://ethereum.stackexchange.com/a/207).
    bundle of resources.
 
 ## Parcels
-Parcels can be traded between entities. On every parcel can be built every
-building. Buildings built on parcels inherit parcels ownership.
+Parcels can be traded between entities. On one parcel can be built up to one building.
+Buildings built on parcels are connected to parcels, so parcel owner automatically
+owns a building which is built on it.
 
 Types of parcels:
 
