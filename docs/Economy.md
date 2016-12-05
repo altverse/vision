@@ -46,7 +46,25 @@ Initial emission is done via [lottery](http://ethereum.stackexchange.com/a/207).
    bundle of resources.
 
 ## Parcels
-TODO
+Parcels can be traded between entities. On every parcel can be built every
+building. Buildings built on parcels inherit parcels ownership.
+
+Types of parcels:
+
+- Deposit
+- Plain
+
+### Deposit
+Deposit parcels contain limited sources of resources.
+
+Attributes of deposit parcel:
+
+- Resource type
+- Amount
+- Quality (production rate)
+
+### Plain
+Plain parcels contain no resources.
 
 ## Buildings
 TODO
